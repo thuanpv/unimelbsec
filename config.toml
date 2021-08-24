@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "http://example.org/"
+baseurl = ""
 languageCode = "en-us"
 title = "Security Research at the University of Melbourne"
 theme = "hugrid"
@@ -23,7 +23,7 @@ publishdir = "public"
     bodybgcolor = "#f9f9f9"
 
     # Preview container button text
-    buttontext = "Get the theme"
+    buttontext = "Visit researcher profile"
 
     # Footer text
     footertext = ""
