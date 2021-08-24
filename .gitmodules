@@ -1,0 +1,3 @@
+[submodule "themes/hugrid"]
+path = themes/hugrid
+url = git@github.com:aerohub/hugrid.git
