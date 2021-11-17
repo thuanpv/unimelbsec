@@ -64,3 +64,13 @@ description = "Robert is a postdoctoral researcher who is broadly interested in 
 url = "https://orcid.org/0000-0003-0313-9764"
 buttontext = "Visit researcher profile"
 
+
+[[student]]
+title = "Pengbo Yan"
+image = "images/full/Pengbo.jpeg"
+thumb = "images/thumb/PengboBW.jpeg"
+alt = "Pengbo Yan"
+description = "Pengbo is a PhD student interested in formal verification."
+url = "https://au.linkedin.com/in/pengbo-yan-7b48471b2"
+buttontext = "Visit researcher profile"
+
