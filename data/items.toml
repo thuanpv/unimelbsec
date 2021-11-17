@@ -61,7 +61,7 @@ image = "images/full/robert.jpeg"
 thumb = "images/thumb/robert.jpeg"
 alt = "Robert Sison"
 description = "Robert is a postdoctoral researcher who is broadly interested in discovering how best to design and construct software systems with formally proved functional-correctness and security properties at scale. His current research concerns the formal verification of operating systems to enforce information-flow security, also known as confidentiality."
-url = "https://orcid.org/0000-0003-0313-9764"
+url = "https://www.robs-cse.com"
 buttontext = "Visit researcher profile"
 
 
