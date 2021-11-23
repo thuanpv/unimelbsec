@@ -67,8 +67,8 @@ buttontext = "Visit researcher profile"
 
 [[student]]
 title = "Pengbo Yan"
-image = "images/full/Pengbo.jpeg"
-thumb = "images/thumb/PengboBW.jpeg"
+image = "images/full/Pengbo.jpg"
+thumb = "images/thumb/PengboBW.jpg"
 alt = "Pengbo Yan"
 description = "Pengbo is a PhD student interested in formal verification."
 url = "https://au.linkedin.com/in/pengbo-yan-7b48471b2"

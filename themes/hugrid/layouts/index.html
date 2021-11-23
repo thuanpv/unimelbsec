@@ -42,10 +42,10 @@
                 </li>
                 {{ end }}
             </ul>
-            {{ if (isset .Site.Data.items.students 0)}}
+            {{ if (isset .Site.Data.items.student 0)}}
             <h4>Research Students</h4>
             <ul id="og-grid" class="og-grid">
-                {{ range $.Site.Data.items.students }}
+                {{ range $.Site.Data.items.student }}
                 <li>
                     <a href="{{.url}}" data-largesrc="{{.image}}" data-title="{{.title}}" data-description="{{.description }}" data-buttontext="{{.buttontext}}">
                         <img src="{{.thumb}}" alt="{{.alt}}" />
