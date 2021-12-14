@@ -74,3 +74,12 @@ description = "Pengbo is a PhD student interested in formal verification."
 url = "https://au.linkedin.com/in/pengbo-yan-7b48471b2"
 buttontext = "Visit researcher profile"
 
+
+[[student]]
+title = "Lianglu Pan"
+image = "images/full/lianglu.jpg"
+thumb = "images/thumb/lianglu.jpg"
+alt = "Lianglu Pan"
+description = "Lianglu is a PhD student. He is interested in security testing and fuzzing in web-based services and applications."
+url = "https://pa55er6y.com"
+buttontext = "Visit researcher profile"
