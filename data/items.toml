@@ -83,3 +83,13 @@ alt = "Lianglu Pan"
 description = "Lianglu is a PhD student. He is interested in security testing and fuzzing in web-based services and applications."
 url = "https://pa55er6y.com"
 buttontext = "Visit researcher profile"
+
+[[student]]
+title = "Jiankai Jin"
+image = "images/full/jiankai.jpg"
+thumb = "images/thumb/jiankai.jpg"
+alt = "Jiankai Jin"
+description = "Jiankai is a PhD student. He is interested in machine learning privacy and robustness."
+url = "https://www.linkedin.com/in/jin-jiankai-3a5750119/"
+buttontext = "Visit researcher profile"
+
