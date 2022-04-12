@@ -22,7 +22,7 @@ title = "Shaanan Cohney"
 image = "images/full/shaanan.png"
 thumb = "images/thumb/shaanan.png"
 alt = "Shaanan Cohney"
-description = "Shaanan is a lecturer whose research centers on the interplay between computer systems and the law, with particular focus on applications of cryptography. Shaanan recently completed a Postdoctoral Fellowship at Princeton University. Prior to that he served in the office of U.S Senator Ron Wyden as a Cybersecurity Fellow."
+description = "Shaanan is a Lecturer whose research centers on the interplay between computer systems and the law, with particular focus on applications of cryptography. Shaanan recently completed a Postdoctoral Fellowship at Princeton University. Prior to that he served in the office of U.S Senator Ron Wyden as a Cybersecurity Fellow."
 url = "https://cohney.info"
 buttontext = "Visit researcher profile"
 
@@ -93,3 +93,11 @@ description = "Jiankai is a PhD student. He is interested in machine learning pr
 url = "https://www.linkedin.com/in/jin-jiankai-3a5750119/"
 buttontext = "Visit researcher profile"
 
+[[student]]
+title = "Faxing Wang"
+image = "images/full/faxing.jpg"
+thumb = "images/thumb/faxing.jpg"
+alt = "Faxing Wang"
+description = "Faxing is a PhD student. He is interested in magic tricks that can be done by cryptography"
+url = "https://lingering.github.io/"
+buttontext = "Visit researcher profile"
