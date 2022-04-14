@@ -25,7 +25,7 @@
                 {{ range $.Site.Data.items.faculty }}
                 <li>
                     <a href="{{.url}}" data-largesrc="{{.image}}" data-title="{{.title}}" data-description="{{with .description }}{{ . | markdownify }}{{ end }}" data-buttontext="{{.buttontext}}">
-                        <img src="{{.thumb}}" alt="{{.alt}}" />
+                        <img src="{{.image}}" alt="{{.alt}}" />
                         <div class="photo-caption">{{.title}}</div>
                     </a>
                 </li>
@@ -36,7 +36,7 @@
                 {{ range $.Site.Data.items.research }}
                 <li>
                     <a href="{{.url}}" data-largesrc="{{.image}}" data-title="{{.title}}" data-description="{{with .description }}{{ . | markdownify }}{{ end }}" data-buttontext="{{.buttontext}}">
-                        <img src="{{.thumb}}" alt="{{.alt}}" />
+                        <img src="{{.image}}" alt="{{.alt}}" />
                         <div class="photo-caption">{{.title}}</div>
                     </a>
                 </li>
@@ -48,8 +48,10 @@
                 {{ range $.Site.Data.items.student }}
                 <li>
                     <a href="{{.url}}" data-largesrc="{{.image}}" data-title="{{.title}}" data-description="{{.description }}" data-buttontext="{{.buttontext}}">
-                        <img src="{{.thumb}}" alt="{{.alt}}" />
+                        <img src="{{.image}}" alt="{{.alt}}" />
                         <div class="photo-caption">{{.title}}</div>
+                        <div class="photo-caption">{{.interests}}</div>
+
                     </a>
                 </li>
                 {{ end }}
