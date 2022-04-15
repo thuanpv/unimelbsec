@@ -54,7 +54,6 @@ description = """Professor Benjamin Rubinstein is interested in security & priva
 url = "https://www.bipr.net/"
 buttontext = "Visit researcher profile"
 
-
 [[research]]
 title = "Robert Sison"
 image = "images/full/robert.jpeg"
