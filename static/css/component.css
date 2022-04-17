@@ -124,12 +124,20 @@
     line-height: 22px;
     color: rgba(119, 44, 204, 0.66);
 }
+.og-menu{
 
+    float: center;
+    padding-bottom:9px;
+    margin:0px 10px;
+    margin-top:25px;
+    font-size: 64px;
+    font-weight:500;
+}
 .og-details a {
+    width: 400%;
     font-weight: 700;
     font-size: 16px;
     color: #333;
-    text-transform: uppercase;
     letter-spacing: 2px;
     padding: 10px 20px;
     border: 3px solid #333;
@@ -226,4 +234,16 @@
         float: none;
         width: 100%;
     }
+}
+marquee {
+    padding:0px 5px;
+    color: #ff1e77;
+    padding-top: 2px;
+    width: 200px;					/*这里可以设置滚动的宽度*/
+    height: 200px;					/*这里可以设置滚动的高度*/
+    border: solid darkgray;	/*这里可以设置边框的样式*/
+    overflow: scroll;
+}
+p {
+    font-weight: bold;
 }

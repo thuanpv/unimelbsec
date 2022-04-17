@@ -83,7 +83,7 @@ header span {
 }
 .brief{
     font-weight: bold;
-    margin-top: 5px;
+    text-align: left;
 }
 
 .main>p {

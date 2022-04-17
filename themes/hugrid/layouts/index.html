@@ -8,34 +8,46 @@
 
 <body>
     {{ partial "header.html" . }}
-    <div class="container">
-
+        <div class="container">
         <div class="main">
-            <section id="lead" class="py-1 text-center container">
-                <div class="row py-md-3">
-                    <div class="col-lg-6 col-md-8 mx-auto">
-                        <h2 class="fw-light"> Welcome!</h2>
-                        <p class="lead text-muted">{{ with .Site.Params.leadtext }}{{ . | markdownify }}{{ end }}
-                        </p>
+                <section id="lead" class="py-1 text-center container">
+                    <div class="row py-md-3">
+                        <div class="col-lg-6 col-md-8 mx-auto">
+                        </div>
                     </div>
-                </div>
-            </section>
+                </section>
+           
+        </div>
             <h4>Teaching and Research Faculty</h4>
             <ul id="og-grid" class="og-grid">
                 {{ range $.Site.Data.items.faculty }}
                 <li>
-                    <a href="{{.url}}" data-largesrc="{{.image}}" data-title="{{.title}}" data-description="{{with .description }}{{ . | markdownify }}{{ end }}" data-buttontext="{{.buttontext}}">
+                    <a href="{{.url}}" data-largesrc="{{.image}}" data-title="{{.title}}" data-description="{{with .description }}{{ . | markdownify }}{{ end }}" data-buttontext="{{.buttontext}}" name="Faculty">
                         <img src="{{.image}}" alt="{{.alt}}" />
                         <div class="photo-caption">{{.title}}</div>
                     </a>
                 </li>
                 {{ end }}
             </ul>
-            <h4>Research Staff</h4>
+            <h4>News</h4>
+            <div class="col-lg-6 col-md-8 mx-5">
+            
+            <ul id="og-details" class="og-details">
+                <p>
+                {{ range $.Site.Data.news.job }}
+                    <p href="{{.url}}" data-largesrc="{{.image}}" data-title="{{.title}}" data-description="{{with .description }}{{ . | markdownify }}{{ end }}" name="news">
+                        <div class="brief">{{.title}}</div>
+                    </p>
+                {{ end }}
+                </p>
+                </ul>
+            
+            </div>
+            <h4>Postdocs</h4>
             <ul id="og-grid" class="og-grid">
                 {{ range $.Site.Data.items.research }}
                 <li>
-                    <a href="{{.url}}" data-largesrc="{{.image}}" data-title="{{.title}}" data-description="{{with .description }}{{ . | markdownify }}{{ end }}" data-buttontext="{{.buttontext}}">
+                    <a href="{{.url}}" data-largesrc="{{.image}}" data-title="{{.title}}" data-description="{{with .description }}{{ . | markdownify }}{{ end }}" data-buttontext="{{.buttontext}}" name="Stundets">
                         <img src="{{.image}}" alt="{{.alt}}" />
                         <div class="photo-caption">{{.title}}</div>
                     </a>
@@ -43,14 +55,26 @@
                 {{ end }}
             </ul>
             {{ if (isset .Site.Data.items.student 0)}}
-            <h4>Research Students</h4>
+            <h4>Ph.D. Students</h4>
             <ul id="og-grid" class="og-grid">
                 {{ range $.Site.Data.items.student }}
                 <li>
-                    <a href="{{.url}}" data-largesrc="{{.image}}" data-title="{{.title}}" data-description="{{.description }}" data-buttontext="{{.buttontext}}">
+                    <a href="{{.url}}" data-largesrc="{{.image}}" data-title="{{.title}}" data-description="{{.description }}" data-buttontext="{{.buttontext}}" name="Students">
                         <img src="{{.image}}" alt="{{.alt}}" />
                         <div class="photo-caption">{{.title}}</div>
-                        <div class="photo-caption">{{.interests}}</div>
+                  
+                    </a>
+                </li>
+                {{ end }}
+            </ul>
+            <h4>Alumni</h4>
+            <ul id="og-grid" class="og-grid">
+                {{ range $.Site.Data.items.alumni }}
+                <li>
+                    <a href="{{.url}}" data-largesrc="{{.image}}" data-title="{{.title}}" data-description="{{.description }}" data-buttontext="{{.buttontext}}" name="Alumni">
+                        <img src="{{.image}}" alt="{{.alt}}" />
+                        <div class="photo-caption">{{.title}}</div>
+                  
 
                     </a>
                 </li>

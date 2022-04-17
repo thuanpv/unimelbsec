@@ -2,7 +2,7 @@
 baseurl = ""
 languageCode = "en-us"
 title = "Security Research at the University of Melbourne"
-theme = "hugrid"
+theme = ["hugrid"]
 # Enter your tracking code to enable Google Analytics
 googleAnalytics = "UA-XXXXXXXX-Y"
 
@@ -10,7 +10,19 @@ contentdir = "content"
 datadir = "data"
 layoutdir = "layouts"
 publishdir = "public"
-
+[menu]
+[[menu.main]]
+  identifier = 'about'
+  name = 'about hugo'
+  pre = "<i class='fa fa-heart'></i>"
+  url = '/about/'
+  weight = -110
+[[menu.main]]
+  name = 'getting started'
+  post = "<span class='alert'>New!</span>"
+  pre = "<i class='fa fa-road'></i>"
+  url = '/getting-started/'
+  weight = -100
 [params]
     # Meta
     title = "Security Research Group at the University of Melbourne"
