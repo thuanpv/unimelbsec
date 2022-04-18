@@ -134,7 +134,7 @@
     font-weight:500;
 }
 .og-details a {
-    width: 400%;
+    width: 100%;
     font-weight: 700;
     font-size: 16px;
     color: #333;
@@ -144,6 +144,16 @@
     display: inline-block;
     margin: 30px 0 0;
     outline: none;
+}
+.og-news {
+    font-weight: 100;
+    font-size: 16px;
+    color: rgb(244, 13, 13);
+    padding-left: 2;
+   /* border: 2px solid rgb(9, 8, 8);*/
+    display: block;
+    height: 240px;
+    overflow: scroll;
 }
 
 .og-details a::before {
@@ -234,15 +244,6 @@
         float: none;
         width: 100%;
     }
-}
-marquee {
-    padding:0px 5px;
-    color: #ff1e77;
-    padding-top: 2px;
-    width: 200px;					/*这里可以设置滚动的宽度*/
-    height: 200px;					/*这里可以设置滚动的高度*/
-    border: solid darkgray;	/*这里可以设置边框的样式*/
-    overflow: scroll;
 }
 p {
     font-weight: bold;

@@ -29,20 +29,35 @@
                 </li>
                 {{ end }}
             </ul>
-            <h4>News</h4>
-            <div class="col-lg-6 col-md-8 mx-5">
-            
-            <ul id="og-details" class="og-details">
-                <p>
-                {{ range $.Site.Data.news.job }}
+
+            <h4>News<a href="news" style="color: grey;font-size: x-small;text-decoration: none;"> learn more</a></h4> 
+            <ul id="og-news" class="og-news">   
+                {{ range $.Site.Data.news.news }}
+                
                     <p href="{{.url}}" data-largesrc="{{.image}}" data-title="{{.title}}" data-description="{{with .description }}{{ . | markdownify }}{{ end }}" name="news">
-                        <div class="brief">{{.title}}</div>
+                          <div class="brief">
+                              
+                            <img src="images/full/shout.png" alt="shout" width="18" height="21" style="vertical-align:middle">
+                            {{.people}}[{{.time}}]: <a href="{{.url}}" style="color: black; text-decoration: none;">  {{.title}} </a>
+                            </div> 
                     </p>
                 {{ end }}
-                </p>
+                
                 </ul>
-            
-            </div>
+                {{ if (isset .Site.Data.items.student 0)}}
+                <h4>Ph.D. Students</h4>
+                <ul id="og-grid" class="og-grid">
+                    {{ range $.Site.Data.items.student }}
+                    <li>
+                        <a href="{{.url}}" data-largesrc="{{.image}}" data-title="{{.title}}" data-description="{{.description }}" data-buttontext="{{.buttontext}}" name="Students">
+                            <img src="{{.image}}" alt="{{.alt}}" />
+                            <div class="photo-caption">{{.title}}</div>
+                      
+                        </a>
+                    </li>
+                    {{ end }}
+                </ul>
+           <!-- <div style="visibility: hidden;display: block;font-size: 0;clear: both;height: 0;margin-left: 80%;"></div>-->
             <h4>Postdocs</h4>
             <ul id="og-grid" class="og-grid">
                 {{ range $.Site.Data.items.research }}
@@ -50,19 +65,6 @@
                     <a href="{{.url}}" data-largesrc="{{.image}}" data-title="{{.title}}" data-description="{{with .description }}{{ . | markdownify }}{{ end }}" data-buttontext="{{.buttontext}}" name="Stundets">
                         <img src="{{.image}}" alt="{{.alt}}" />
                         <div class="photo-caption">{{.title}}</div>
-                    </a>
-                </li>
-                {{ end }}
-            </ul>
-            {{ if (isset .Site.Data.items.student 0)}}
-            <h4>Ph.D. Students</h4>
-            <ul id="og-grid" class="og-grid">
-                {{ range $.Site.Data.items.student }}
-                <li>
-                    <a href="{{.url}}" data-largesrc="{{.image}}" data-title="{{.title}}" data-description="{{.description }}" data-buttontext="{{.buttontext}}" name="Students">
-                        <img src="{{.image}}" alt="{{.alt}}" />
-                        <div class="photo-caption">{{.title}}</div>
-                  
                     </a>
                 </li>
                 {{ end }}
