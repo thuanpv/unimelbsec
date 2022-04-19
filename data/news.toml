@@ -4,6 +4,12 @@
 
 [[news]]
 type = "Job"
+description = "Thuan is looking for a student interested in automated security testing for embedded systems. Click to find more info."
+url = "https://thuanpv.github.io/"
+time ="20 April, 2022 "
+people = "Thuan"
+[[news]]
+type = "Job"
 description = "Shaanan is looking for students interested in the boundary between applied cryptography, security, consumer protection, and law."
 url = "https://cohney.info/"
 time ="20 April, 2022 "
