@@ -1,7 +1,19 @@
 # up-to-date news should be placed at the very front of this file
 # up-to-date news should be placed at the very front of this file
 # up-to-date news should be placed at the very front of this file
+[[news]]
+type = "New"
+description = "Congrats to William holland, Olya Ohrimenko, Tony Wirth on an AsiaCCS'22 acceptance for their paper \"Efficient Oblivious Permutation via the Waksman Network\". Very nicely done! "
+url = "https://asiaccs2022.conferenceservice.jp/accepted-papers/all"
+time ="04 May, 2022 "
+people = "Ben"
 
+[[news]]
+type = "Job"
+description = "Olya and Trevor Cohn are looking for a Research Fellow in Secure and Privacy-preserving Natural Language Processing. Application deadline: 10 May 2022 11:55 PM AUS Eastern Standard Time"
+url = "https://go.unimelb.edu.au/m66e"
+time ="04 May, 2022 "
+people = "Olya"
 [[news]]
 type = "Job"
 description = "Thuan is looking for a student interested in automated security testing for embedded systems. Click to find more info."
@@ -20,4 +32,10 @@ type = "New"
 description = "Congratulations to Jinkai Jin, Olga Ohrimenko, Ben Rubinstein, and our former CIS member Eleanor Mcmurtry whose paper, \"Are We There Yet? Timing and Floating-Point Attacks on Differential Privacy Systems\" were accepted in S&P 22."
 url = "https://arxiv.org/abs/2112.05307"
 time ="17 April, 2022 "
+people = "Ben"
+[[news]]
+type = "New"
+description = "Congrats to Olya Ohrimenko, Tony Wirth, and Hao WU on their paper \"Randomize the Future: Asymptotically Optimal Locally Private Frequency Estimation Protocol for Longitudinal Data\" accepted to the premier theory for databases conference PODS2022 (the 41st ACM SIGMOD-SIGACT-SIGAI Symposium on Principles of Database Systems). "
+url = "https://arxiv.org/abs/2112.12279"
+time ="21 March, 2022 "
 people = "Ben"
