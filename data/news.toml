@@ -3,7 +3,13 @@
 # up-to-date news should be placed at the very front of this file
 [[news]]
 type = "New"
-description = "Congrats to Joseph Bonneau who got his coauthored the paper \"Zero-Knowledge Middleboxes\" accepted in Security'22 and also selected for a talk in RWC'22. Very nicely done! "
+description = "Congrats to Shannan Cohney for his new Secuirty'22 paper on procator,\"Watching the Watchers: a cautionary tale about proctoring software\""
+url = "https://t.co/BtPtmFfwPI"
+time ="10 May, 2022 "
+people = "Olya"
+[[news]]
+type = "New"
+description = "Congrats to Joseph Bonneau who got his coauthored paper \"Zero-Knowledge Middleboxes\" accepted in Security'22 and also selected for a talk in RWC'22. Very nicely done! "
 url = "https://eprint.iacr.org/2021/1022"
 time ="05 May, 2022 "
 people = "Olya"
