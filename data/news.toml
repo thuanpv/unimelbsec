@@ -3,7 +3,7 @@
 # up-to-date news should be placed at the very front of this file
 [[news]]
 type = "New"
-description = "Check out the Post by Toby Murray on \“Optus data breach: what can customers do and how can we create a safer data future?\""
+description = "Check out the Post by Toby Murray on \"Optus data breach: what can customers do and how can we create a safer data future?\""
 url = "https://eng.unimelb.edu.au/ingenium/optus-data-breach-what-can-customers-do-and-how-can-we-create-a-safer-data-future"
 time ="27 Sep, 2022 "
 people = "Toby"
