@@ -10,13 +10,13 @@ people = "Toby"
 [[news]]
 type = "Job"
 description = "Congrats to Thuan Pham on his funding on Human-In-The-Loop Fuzzing, Thuan is looking for a Ph.D. student"
-url = "https://t.co/BtPtmFfwPI"
+url = "https://thuanpv.github.io"
 time ="15 Sep, 2022 "
 people = "Thuan"
 [[news]]
 type = "New"
 description = "Congrats to Thuan Pham on his ISSTA '22 paper,\"Human-in-the-Loop Oracle Learning for Semantic Bugs in String Processing Programs\""
-url = "https://t.co/BtPtmFfwPI"
+url = "https://mboehme.github.io/paper/ISSTA22.pdf"
 time ="11 May, 2022 "
 people = "Thuan"
 [[news]]
