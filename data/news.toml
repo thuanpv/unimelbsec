@@ -3,16 +3,34 @@
 # up-to-date news should be placed at the very front of this file
 [[news]]
 type = "New"
+description = "Check out the Post by Toby Murray on \“Optus data breach: what can customers do and how can we create a safer data future?\""
+url = "https://eng.unimelb.edu.au/ingenium/optus-data-breach-what-can-customers-do-and-how-can-we-create-a-safer-data-future"
+time ="27 Sep, 2022 "
+people = "Toby"
+[[news]]
+type = "New"
+description = "Congrats to Thuan Pham on his funding on Human-In-The-Loop Fuzzing, Thuan is looking for a Ph.D. student"
+url = "https://t.co/BtPtmFfwPI"
+time ="15 Sep, 2022 "
+people = "Thuan"
+[[news]]
+type = "New"
+description = "Congrats to Thuan Pham on his ISSTA '22 paper,\"Human-in-the-Loop Oracle Learning for Semantic Bugs in String Processing Programs\""
+url = "https://t.co/BtPtmFfwPI"
+time ="11 May, 2022 "
+people = "Thuan"
+[[news]]
+type = "New"
 description = "Congrats to Shaanan Cohney on his USENIX Security '22 paper,\"Watching the Watchers: bias and vulnerability in remote proctoring software\""
 url = "https://t.co/BtPtmFfwPI"
 time ="10 May, 2022 "
-people = "Olya"
+people = "Shaanan"
 [[news]]
 type = "New"
 description = "Congrats to Joseph Bonneau who got his coauthored paper \"Zero-Knowledge Middleboxes\" accepted in Security'22 and also selected for a talk in RWC'22. Very nicely done! "
 url = "https://eprint.iacr.org/2021/1022"
 time ="05 May, 2022 "
-people = "Olya"
+people = "Joe"
 [[news]]
 type = "New"
 description = "Congrats to William holland, Olya Ohrimenko, Tony Wirth on an AsiaCCS'22 acceptance for their paper \"Efficient Oblivious Permutation via the Waksman Network\". Very nicely done! "
