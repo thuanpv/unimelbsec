@@ -9,7 +9,7 @@ time ="27 Sep, 2022 "
 people = "Toby"
 [[news]]
 type = "Job"
-description = "Congrats to Thuan Pham on his funding on Human-In-The-Loop Fuzzing, Thuan is looking for a Ph.D. student"
+description = "Congrats to Thuan Pham on his ARC DECRA 2023 award on Human-In-The-Loop Fuzzing, Thuan is looking for a Ph.D. student"
 url = "https://thuanpv.github.io"
 time ="15 Sep, 2022 "
 people = "Thuan"
