@@ -9,11 +9,6 @@ url="https://jobs.unimelb.edu.au/caw/en/job/911231/research-fellow-ai-human-team
 people = "Olya"
 [[news]]
 type = "New"
-description = "lucky to have Clément Canonne from Uni of Sydney at our CS Cyber meeting to give a talk \"Shuffle and Local DP algorithms for testing goodness-of-fit\" "
-time ="11 May, 2022 "
-people = "Olya"
-[[news]]
-type = "New"
 description = "Check out the Post by Toby Murray on \"Optus data breach: what can customers do and how can we create a safer data future?\""
 url = "https://eng.unimelb.edu.au/ingenium/optus-data-breach-what-can-customers-do-and-how-can-we-create-a-safer-data-future"
 time ="27 Sep, 2022 "
@@ -24,6 +19,11 @@ description = "Congrats to Thuan Pham on his ARC DECRA 2023 award on Human-In-Th
 url = "https://thuanpv.github.io"
 time ="15 Sep, 2022 "
 people = "Thuan"
+[[news]]
+type = "New"
+description = "lucky to have Clément Canonne from Uni of Sydney at our CS Cyber meeting to give a talk \"Shuffle and Local DP algorithms for testing goodness-of-fit\" "
+time ="11 May, 2022 "
+people = "Olya"
 [[news]]
 type = "New"
 description = "Congrats to Thuan Pham on his ISSTA '22 paper,\"Human-in-the-Loop Oracle Learning for Semantic Bugs in String Processing Programs\""
