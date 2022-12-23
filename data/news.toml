@@ -2,6 +2,17 @@
 # up-to-date news should be placed at the very front of this file
 # up-to-date news should be placed at the very front of this file
 [[news]]
+type = "Job"
+description = "Olya looking for Research Fellows in Machine Learning, Security or HCI. Join a team across 6 universities in Australia and the US on the Cybersecurity Assurance for Teams of Computers and Humans (CATCH) MURI . Click to see more details. Application deadline: Jan 19, 2023 (Australian Eastern Daylight Time)." 
+time ="23 Nov, 2022 "
+url="https://jobs.unimelb.edu.au/caw/en/job/911231/research-fellow-ai-human-teams-for-cybersecurity"
+people = "Olya"
+[[news]]
+type = "New"
+description = "lucky to have Clément Canonne from Uni of Sydney at our CS Cyber meeting to give a talk \"Shuffle and Local DP algorithms for testing goodness-of-fit\" "
+time ="11 May, 2022 "
+people = "Olya"
+[[news]]
 type = "New"
 description = "Check out the Post by Toby Murray on \"Optus data breach: what can customers do and how can we create a safer data future?\""
 url = "https://eng.unimelb.edu.au/ingenium/optus-data-breach-what-can-customers-do-and-how-can-we-create-a-safer-data-future"
