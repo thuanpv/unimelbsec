@@ -124,3 +124,13 @@ alt = "Faxing Wang"
 description = "Faxing is a PhD student. He is interested in magic tricks that can be done by cryptography"
 url = "https://lingering.github.io/"
 buttontext = "Visit researcher profile"
+
+
+[[student]]
+title = "Wentao Gao"
+image = "images/full/Wentao_color.jpg"
+thumb = "images/thumb/Wentao_BW.jpeg"
+alt = "Wentao Gao"
+description = "Wentao is a PhD student interested in human-in-the-loop fuzzing."
+url = "https://www.linkedin.com/in/wentao-gao-ab9535244/"
+buttontext = "Visit researcher profile"
