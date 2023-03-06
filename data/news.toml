@@ -2,6 +2,21 @@
 # up-to-date news should be placed at the very front of this file
 # up-to-date news should be placed at the very front of this file
 [[news]]
+type = "News"
+description = "Welcome our new faculty Prof. Chitchanok Chuengsatiansup. Her research interest resides in Post-Quantum Cryptography, Lattice-Based Cryptography,
+and Side-Channel Analysis. Congraudition on her recent Side-channel works. \"The Gates of Time: Improving Cache Attacks with Transient Execution\" will appear in Security 2023. 
+\"Spectre Declassified: Reading from the Right Place at the Wrong Time\" will appear in Oakland23.
+" 
+time ="01 March, 2023 "
+url="https://jobs.unimelb.edu.au/caw/en/job/911231/research-fellow-ai-human-teams-for-cybersecurity"
+people = "Olya"
+[[news]]
+type = "News"
+description = "Congratulations to Olya and Michelle on their new work \"Protecting Global Properties of Datasets with Distribution Privacy Mechanisms\" got ACCPETED in AISTATS23" 
+time ="22 Feb, 2023 "
+url="https://jobs.unimelb.edu.au/caw/en/job/911231/research-fellow-ai-human-teams-for-cybersecurity"
+people = "Olya"
+[[news]]
 type = "Job"
 description = "Olya is looking for Research Fellows in Machine Learning, Security or HCI. Join a team across 6 universities in Australia and the US on the Cybersecurity Assurance for Teams of Computers and Humans (CATCH) MURI project. Click to see more details. Application deadline: Jan 19, 2023 (Australian Eastern Daylight Time)." 
 time ="23 Nov, 2022 "
