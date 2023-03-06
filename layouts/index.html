@@ -19,16 +19,16 @@
            
         </div>
             <h4>Teaching and Research Faculty</h4>
-            <ul id="og-grid" class="og-grid">
+            <table id="og-grid" class="og-grid">
                 {{ range $.Site.Data.items.faculty }}
-                <li>
-                    <a href="{{.url}}" data-largesrc="{{.image}}" data-title="{{.title}}" data-description="{{with .description }}{{ . | markdownify }}{{ end }}" data-buttontext="{{.buttontext}}" name="Faculty">
-                        <img src="{{.image}}" alt="{{.alt}}" />
-                        <div class="photo-caption">{{.title}}</div>
-                    </a>
-                </li>
+                <tr>
+                    <a href=" " data-largesrc="{{.image}}" data-title="{{.title}}" data-description="{{with .description }}{{ . | markdownify }}{{ end }}" data-buttontext="{{.buttontext}}" name="Faculty">
+                        <td>< img src="{{.image}}" alt="{{.alt}}" /></td>
+                        <td><div class="photo-caption">{{.title}}</div></td>
+                    </a >
+                </tr>
                 {{ end }}
-            </ul>
+            </table>
 
             <h4>News<a href="news" style="color: grey;font-size: x-small;text-decoration: none;"> learn more</a></h4> 
             <ul id="og-news" class="og-news">   
