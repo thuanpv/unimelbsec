@@ -60,6 +60,16 @@ url = "https://www.bipr.net/"
 buttontext = "Visit researcher profile"
 mail ="benjamin.rubinstein@unimelb.edu.au"
 
+
+[[faculty]]
+title = "Chitchanok Chuengsatiansup"
+image = "images/full/chitchanok.jpg"
+thumb = "images/thumb/chitchanok.jpg"
+alt = "Chitchanok Chuengsatiansup"
+description = """Chitchanok Chuengsatiansup is a Senior Lecturer at the School of Computing and Information Systems, The University of Melbourne. Her research area covers cryptographic optimisation, efficient implementation, and side-channel analysis. She was among the finalists of the Google Hash Code, the winners of the global competition iDASH Healthcare Privacy Protection Challenge, and the contributors of the lattice-based key encapsulation mechanism NTRU Prime submitted to the NIST Post-Quantum Cryptography Standardization Project. Prior to joining The University of Melbourne, she was a Lecturer at The University of Adelaide, Australia, and a postdoctoral researcher at Inria and ENS de Lyon, France. Before that, she conducted her PhD study at Eindhoven University of Technology, The Netherlands. She was awarded a prestigious Japanese Government Scholarship (Monbukagakusho) for her Master's study and obtained the Master degree in Computer Science from the Graduate School of Information Science and Technology, The University of Tokyo. Her undergraduate study was at Chulalongkorn University, Thailand, where she received the Bachelor degree of Engineering program in Computer Engineering with first class honors."""
+url = "https://cs.adelaide.edu.au/~cchuengs/#PC"
+buttontext = "Visit researcher profile"
+mail ="chitchanok.chuengsatiansup@adelaide.edu.au"
 #for postdoctoral
 #[[research]]
 #title = ""
