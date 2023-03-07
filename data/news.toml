@@ -20,6 +20,12 @@ time ="22 Feb, 2023 "
 url="https://arxiv.org/pdf/2207.08367.pdf"
 people = "Olya"
 [[news]]
+type = "New"
+description = "Congrats to Joseph Bonneau on his FC '23 papers,\"Proof of Necessary Work: Succinct State Verification with Fairness Guarantees\",\"Limits on revocable proof systems, with applications to stateless blockchains\",\"Bicorn: An optimistically efficient distributed randomness beacon\""
+url = "https://jbonneau.com/publications.html"
+time ="11 Jan, 2023 "
+people = "Joe"
+[[news]]
 type = "Job"
 description = "Olya is looking for Research Fellows in Machine Learning, Security or HCI. Join a team across 6 universities in Australia and the US on the Cybersecurity Assurance for Teams of Computers and Humans (CATCH) MURI project. Click to see more details. Application deadline: Jan 19, 2023 (Australian Eastern Daylight Time)." 
 time ="23 Nov, 2022 "
@@ -37,6 +43,18 @@ description = "Congrats to Thuan Pham on his ARC DECRA 2023 award entitled \"Hum
 url = "https://thuanpv.github.io"
 time ="15 Sep, 2022 "
 people = "Thuan"
+[[news]]
+type = "New"
+description = "Congrats to Joseph Bonneau on his Asiacrypt '22 paper,\"Short-lived zero-knowledge proofs and signatures\""
+url = "https://eprint.iacr.org/2022/190.pdf"
+time ="11 Aug, 2022 "
+people = "Joe"
+[[news]]
+type = "New"
+description = "Congrats to Joseph Bonneau on his CCS '22 paper,\"VeRSA: Verifiable Registries with Efficient Client Audits from RSA Authenticated Dictionaries\""
+url = "https://eprint.iacr.org/2021/627"
+time ="11 Aug, 2022 "
+people = "Joe"
 [[news]]
 type = "New"
 description = "We were lucky to have Clément Canonne from Uni of Sydney at our CS Cyber speaking on \"Shuffle and Local DP algorithms for testing goodness-of-fit\" "
