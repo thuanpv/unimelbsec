@@ -97,6 +97,14 @@ description = "Robert is a postdoctoral researcher who is broadly interested in 
 url = "https://www.robs-cse.com"
 buttontext = "Visit researcher profile"
 
+[[research]]
+title = "Zheguang Zhao"
+image = "images/full/Zheguang Zhao.jpeg"
+thumb = "images/thumb/Zheguang Zhao.jpeg"
+alt = "Zheguang Zhao"
+url = "https://zheguang.github.io/"
+buttontext = "Visit researcher profile"
+description = "Zheguang Zhao is a research fellow at the University of Melbourne. His research focuses on security issues in data-intensive systems, human computer interaction and machine learning.  He is currently studying vulnerabilities in human-AI collaboration, with applications in broad scenarios such as self-driving vehicles, medical diagnosis, fraud detection and cyberanalysis.  His focus is on building attacks aiming at AI decision-making, computing and human resources, human-machine trust, and on designing and analyzing security protocols against such threats. Zheguang was a postdoctoral researcher at Technical University at Darmstadt from 2021-2022.  He obtained PhD in computer science from Brown University in 2021."
 #for phds
 [[student]]
 title = "Pengbo Yan"
