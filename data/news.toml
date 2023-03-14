@@ -15,7 +15,7 @@ url="https://cs.adelaide.edu.au/~cchuengs"
 people = "Chitchanok"
 [[news]]
 type = "News"
-description = "Congratulations to Olya and Michelle on their new work \"Protecting Global Properties of Datasets with Distribution Privacy Mechanisms\" that got ACCEPETED in AISTATS23" 
+description = "Congratulations to Olya and Michelle on their new work \"Protecting Global Properties of Datasets with Distribution Privacy Mechanisms\" that got ACCEPTED in AISTATS23" 
 time ="22 Feb, 2023 "
 url="https://arxiv.org/pdf/2207.08367.pdf"
 people = "Olya"
