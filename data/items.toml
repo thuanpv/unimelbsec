@@ -152,3 +152,14 @@ alt = "Wentao Gao"
 description = "Wentao is a PhD student interested in human-in-the-loop fuzzing."
 url = "https://www.linkedin.com/in/wentao-gao-ab9535244/"
 buttontext = "Visit researcher profile"
+
+[[student]]
+title = "Zhiyuan Zhang"
+image = "images/full/zzy.jpg"
+thumb = "images/thumb/zzy.jpeg"
+alt = "Zhiyuan Zhang"
+description = "Zhiyuan a PhD student. He is interested in side-channel analysis and cryptography."
+url = "https://neo-outis.github.io/"
+buttontext = "Visit researcher profile"
+
+
