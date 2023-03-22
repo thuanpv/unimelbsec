@@ -1,19 +1,23 @@
 # up-to-date news should be placed at the very front of this file
 # up-to-date news should be placed at the very front of this file
 # up-to-date news should be placed at the very front of this file
-
+[[news]]
+type = "News"
 description = "Congratulations to Zhiyuan and Chitchanok on their two research outputs:\"BunnyHop: Exploiting the Instruction Prefetcher\" and \"Ultimate SLH: Taking Speculative Load Hardening to the Next Level\" will appear in USENIX Security 2023."
+time ="06 March, 2023 "
+url="http://chitchanok.org/"
+people = "Chitchanok"
 [[news]]
 type = "News"
 description = "Congratulations to Chitchanok on her recent Side-channel works. \"The Gates of Time: Improving Cache Attacks with Transient Execution\" will appear in USENIX Security 2023 and \"Spectre Declassified: Readingfrom the Right Place at the Wrong Time\" will appear in Oakland23." 
 time ="06 March, 2023 "
-url="https://cs.adelaide.edu.au/~cchuengs"
+url="http://chitchanok.org/"
 people = "Chitchanok"
 [[news]]
 type = "News"
 description = "Welcome our new faculty Prof. Chitchanok Chuengsatiansup. Her research interest resides in Post Quantum Cryptography, Lattice Based Cryptography, and Side-Channel Analysis."
 time ="01 March, 2023 "
-url="https://cs.adelaide.edu.au/~cchuengs"
+url="http://chitchanok.org/"
 people = "Chitchanok"
 [[news]]
 type = "News"
