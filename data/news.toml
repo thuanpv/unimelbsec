@@ -1,9 +1,11 @@
 # up-to-date news should be placed at the very front of this file
 # up-to-date news should be placed at the very front of this file
 # up-to-date news should be placed at the very front of this file
+
+description = "Congratulations to Zhiyuan and Chitchanok on their two research outputs:\"BunnyHop: Exploiting the Instruction Prefetcher\" and \"Ultimate SLH: Taking Speculative Load Hardening to the Next Level\" will appear in USENIX Security 2023."
 [[news]]
 type = "News"
-description = "Congratulations to Chitchanok on her recent Side-channel works. \"The Gates of Time: Improving Cache Attacks with Transient Execution\", \"BunnyHop: Exploiting the Instruction Prefetcher\",\"Ultimate SLH: Taking Speculative Load Hardening to the Next Level\" will appear in USENIX Security 2023 And \"Spectre Declassified: Reading from the Right Place at the Wrong Time\" will appear in Oakland23." 
+description = "Congratulations to Chitchanok on her recent Side-channel works. \"The Gates of Time: Improving Cache Attacks with Transient Execution\" will appear in USENIX Security 2023 and \"Spectre Declassified: Readingfrom the Right Place at the Wrong Time\" will appear in Oakland23." 
 time ="06 March, 2023 "
 url="https://cs.adelaide.edu.au/~cchuengs"
 people = "Chitchanok"
