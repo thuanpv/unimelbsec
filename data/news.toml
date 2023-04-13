@@ -1,6 +1,22 @@
 # up-to-date news should be placed at the very front of this file
 # up-to-date news should be placed at the very front of this file
 # up-to-date news should be placed at the very front of this file
+type = "News"
+description = "Congratulations to Chitchanok on her new paper:\"Cache-Attack Against HQC\", will appear in CHES 2023."
+time ="13 April, 2023 "
+url="http://chitchanok.org/"
+people = "Chitchanok"
+type = "News"
+description = "Congratulations to Chitchanok on her new paper:\"CryptOpt: Automatic Optimization of Straightline Code\", will appear in ICSE 2023."
+time ="13 April, 2023 "
+url="https://cs.adelaide.edu.au/~yval/pdfs/KuepperEWGCSTCCGWY23.pdf"
+people = "Chitchanok"
+[[news]]
+type = "News"
+description = "Congratulations to Chitchanok on her new paper:\"CryptOpt: Verified Compilation with Randomized Program Search for Cryptographic Primitives\", will appear in PLDI 2023."
+time ="13 April, 2023 "
+url="https://arxiv.org/abs/2211.10665"
+people = "Chitchanok"
 [[news]]
 type = "News"
 description = "Congratulations to Zhiyuan and Chitchanok on their two research outputs:\"BunnyHop: Exploiting the Instruction Prefetcher\" and \"Ultimate SLH: Taking Speculative Load Hardening to the Next Level\" will appear in USENIX Security 2023."
