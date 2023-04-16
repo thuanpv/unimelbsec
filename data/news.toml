@@ -33,6 +33,12 @@ url="http://chitchanok.org/"
 people = "Chitchanok"
 [[news]]
 type = "News"
+description = "Congratulations to Toby and Rob on his new paper:\"Formalising the Prevention of Microarchitectural Timing Channels by Operating Systems\", will appear in Formal Methods: 25th International Symposium. 23"
+time ="03 April, 2023 "
+url="https://www.robs-cse.com/publications/FM23_accepted.pdf"
+people = "Toby"
+[[news]]
+type = "News"
 description = "Welcome our new faculty Prof. Chitchanok Chuengsatiansup. Her research interest resides in Post Quantum Cryptography, Lattice Based Cryptography, and Side-Channel Analysis."
 time ="01 March, 2023 "
 url="http://chitchanok.org/"
