@@ -34,7 +34,7 @@ people = "Chitchanok"
 [[news]]
 type = "News"
 description = "Congratulations to Toby and Rob on his new paper:\"Formalising the Prevention of Microarchitectural Timing Channels by Operating Systems\", will appear in Formal Methods: 25th International Symposium. 23"
-time ="03 April, 2023 "
+time ="03 March, 2023 "
 url="https://www.robs-cse.com/publications/FM23_accepted.pdf"
 people = "Toby"
 [[news]]
