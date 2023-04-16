@@ -79,7 +79,7 @@ mail ="chitchanok.chuengsatiansup@adelaide.edu.au"
 #description = ""
 #url = ""
 #buttontext = "Visit researcher profile"
-[[research]]
+[[alumni]]
 title = "Ni Ding"
 image = "images/full/NiDing.jpg"
 thumb = "images/thumb/NiDing.jpg"
@@ -88,7 +88,7 @@ description = "Dr Ding is interested in the optimization problems raised in cybe
 url = "https://findanexpert.unimelb.edu.au/profile/869122-ni-ding" 
 buttontext = "Visit researcher profile"
 
-[[research]]
+[[alumni]]
 title = "Robert Sison"
 image = "images/full/robert.jpeg"
 thumb = "images/thumb/robert.jpeg"
