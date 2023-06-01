@@ -3,10 +3,10 @@
 # up-to-date news should be placed at the very front of this file
 [[news]]
 type = "News"
-description = "Congratulations to Chitchanok on her new paper:\"Cache-Attack Against HQC\", will appear in CHES 2023."
-time ="13 April, 2023 "
-url="https://chn.oversea.cnki.net/KCMS/detail/detail.aspx?dbcode=CMFD&dbname=CMFD202102&filename=1021075666.nh&uniplatform=OVERSEA&v=5l-75J1t4Xcns6wthHoA6eME3t75ajxubXyGJPa04l031wkOO1dQl8SqNam9HPSo"
-people = "Chitchanok"
+description = "Congratulations to Lianglu, Shaanan, Toby, and Thuan on their paper: \"Detecting Excessive Data Exposures in Web Server Responses with Metamorphic Fuzzing\", will appear in ICSE 2024."
+time ="01 June, 2023 "
+url="https://arxiv.org/abs/2301.09258"
+people = "Lianglu"
 [[news]]
 type = "News"
 description = "Congratulations to Chitchanok on her new paper:\"CryptOpt: Automatic Optimization of Straightline Code\", will appear in ICSE 2023."
@@ -15,7 +15,7 @@ url="https://cs.adelaide.edu.au/~yval/pdfs/KuepperEWGCSTCCGWY23.pdf"
 people = "Chitchanok"
 [[news]]
 type = "News"
-description = "Congratulations to Chitchanok on her new paper:\"CryptOpt: Verified Compilation with Randomized Program Search for Cryptographic Primitives\", will appear in PLDI 2023."
+description = "Congratulations to Chitchanok on her new paper:\"CryptOpt: Verified Compilation with Randomized Program Search for Cryptographic Primitives\", will appear in PLDI 2023 (Distinguished Paper Award)."
 time ="13 April, 2023 "
 url="https://arxiv.org/abs/2211.10665"
 people = "Chitchanok"
