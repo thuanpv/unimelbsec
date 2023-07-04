@@ -88,12 +88,12 @@ description = "Dr Ding is interested in the optimization problems raised in cybe
 url = "https://findanexpert.unimelb.edu.au/profile/869122-ni-ding" 
 buttontext = "Visit researcher profile"
 
-[[research]]
+[[alumni]]
 title = "Robert Sison"
 image = "images/full/robert.jpeg"
 thumb = "images/thumb/robert.jpeg"
 alt = "Robert Sison"
-description = "Robert is a postdoctoral researcher who is broadly interested in discovering how best to design and construct software systems with formally proved functional-correctness and security properties at scale. His current research concerns the formal verification of operating systems to enforce information-flow security, also known as confidentiality."
+description = "Rob is a postdoctoral researcher who is broadly interested in discovering how best to design and construct software systems with formally proved functional-correctness and security properties at scale. Their research with the University of Melbourne concerned the formal verification of operating systems to enforce the absence of microarchitectural timing channels."
 url = "https://www.robs-cse.com"
 buttontext = "Visit researcher profile"
 
