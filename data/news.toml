@@ -3,7 +3,7 @@
 # up-to-date news should be placed at the very front of this file
 [[news]]
 type = "News"
-description = "Congratulations to Faxing, Shaanaon and Joseph on their paper: \"NOTRY: Deniable messaging with retroactive avowal\", will appear in PETS 2024."
+description = "Congratulations to Faxing, Shaanan and Joseph on their paper: \"NOTRY: Deniable messaging with retroactive avowal\", will appear in PETS 2024."
 time ="02 December, 2023 "
 url="https://jbonneau.com/publications.html"
 people = "faxing"
