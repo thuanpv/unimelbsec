@@ -1,19 +1,19 @@
 # up-to-date news should be placed at the very front of this file
 # up-to-date news should be placed at the very front of this file
 # up-to-date news should be placed at the very front of this file
-[[new]]
+[[news]]
 type = "News"
 description = "Congratulations to Faxing, Shaanaon and Joseph on their paper: \"NOTRY: Deniable messaging with retroactive avowal\", will appear in PETS 2024."
 time ="02 December, 2023 "
 url="https://jbonneau.com/publications.html"
 people = "faxing"
-[[new]]
+[[news]]
 type = "News"
 description = "Congratulations to Zhiyuan and Chitchanok on their paper: \"TeeJam: Sub-Cache-Line Leakages Strike Back\", will appear in CHES 2024."
 time ="25 August, 2023 "
 url="https://www.chitchanok.org/"
 people = "Zhiyuan"
-[[new]]
+[[news]]
 type = "News"
 description = "Congratulations to Toby on his new paper: \"Assume but Verify: Deductive Verification of Leaked Information in Concurrent Applications\", will appear in ACM CCS 2023."
 time ="16 July, 2023 "
