@@ -3,9 +3,15 @@
 # up-to-date news should be placed at the very front of this file
 [[news]]
 type = "News"
+description = "Congratulations to Lianglu, Shaanan, Toby, and Thuan on their paper: \"EDEFuzz\", will appear in ICSE 2024., which is awarded <b>Distinguished Paper</b>"
+time ="28 Feb, 2024"
+url="https://arxiv.org/abs/2301.09258"
+people = "Lianglu"
+[[news]]
+type = "News"
 description = "Congratulations to Faxing, Shaanan and Joseph on their paper: \"NOTRY: Deniable messaging with retroactive avowal\", will appear in PETS 2024."
 time ="02 November, 2023 "
-url="https://jbonneau.com/publications.html"
+url="https://eprint.iacr.org/2023/1926"
 people = "faxing"
 [[news]]
 type = "News"
@@ -27,7 +33,7 @@ url="https://dl.acm.org/doi/abs/10.1145/3605157.3605177"
 people = "Wentao"
 [[news]]
 type = "News"
-description = "Congratulations to Lianglu, Shaanan, Toby, and Thuan on their paper: \"Detecting Excessive Data Exposures in Web Server Responses with Metamorphic Fuzzing\", will appear in ICSE 2024."
+description = "Congratulations to Lianglu, Shaanan, Toby, and Thuan on their paper: \"EDEFuzz: A Web API Fuzzer for Excessive Data Exposures\", will appear in ICSE 2024."
 time ="01 June, 2023 "
 url="https://arxiv.org/abs/2301.09258"
 people = "Lianglu"
