@@ -3,7 +3,7 @@
 # up-to-date news should be placed at the very front of this file
 [[news]]
 type = "News"
-description = <b>"Congratulations to Lianglu, Shaanan, Toby, and Thuan on their paper: \"EDEFuzz\", will appear in ICSE 2024., which is awarded Distinguished Paper"</b>
+description = "Congratulations to Lianglu, Shaanan, Toby, and Thuan on their ICSE 2024 paper EDEFuzz, which receives a Distinguished Paper Award"
 time ="28 Feb, 2024"
 url="https://arxiv.org/abs/2301.09258"
 people = "Lianglu"
