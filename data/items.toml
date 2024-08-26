@@ -58,19 +58,31 @@ image = "images/full/chitchanok.jpg"
 thumb = "images/thumb/chitchanok.jpg"
 alt = "Chitchanok Chuengsatiansup"
 description = """Chitchanok Chuengsatiansup is a Senior Lecturer at the School of Computing and Information Systems, The University of Melbourne. Her research area covers cryptographic optimisation, efficient implementation, and side-channel analysis. She was among the finalists of the Google Hash Code, the winners of the global competition iDASH Healthcare Privacy Protection Challenge, and the contributors of the lattice-based key encapsulation mechanism NTRU Prime submitted to the NIST Post-Quantum Cryptography Standardization Project. Prior to joining The University of Melbourne, she was a Lecturer at The University of Adelaide, Australia, and a postdoctoral researcher at Inria and ENS de Lyon, France. Before that, she conducted her PhD study at Eindhoven University of Technology, The Netherlands. She was awarded a prestigious Japanese Government Scholarship (Monbukagakusho) for her Master's study and obtained the Master degree in Computer Science from the Graduate School of Information Science and Technology, The University of Tokyo. Her undergraduate study was at Chulalongkorn University, Thailand, where she received the Bachelor degree of Engineering program in Computer Engineering with first class honors."""
-url = "https://cs.adelaide.edu.au/~cchuengs/#PC"
+url = "https://cs.adelaide.edu.au/~cchuengs/"
 buttontext = "Visit researcher profile"
 mail ="chitchanok.chuengsatiansup@adelaide.edu.au"
 
+
+[[faculty]]
+title = "Xinliang Yuan"
+image = "images/full/chitchanok.jpg"
+thumb = "images/thumb/chitchanok.jpg"
+alt = "Chitchanok Chuengsatiansup"
+description = "Xingliang Yuan is an Associate Professor in the School of Computing and Information Systems, the University of Melbourne. Prior to that, he was a faculty member at Monash University from 2017 to 2024. Xingliang has a keen interest in designing systems, protocols to address real-world privacy and security challenges. His current research focuses on data security and privacy, secure networked system, and trustworthy machine learning. His research has been supported by Australian Research Council, CSIRO, Australian Department of Home Affairs, Australian Department of Health and Aged Care, and the Oceania Cyber Security Centre. His work has been published in major venues of computer security and systems, such as CCS, S&P, USENIX Security, NDSS, TDSC, TIFS, etc. He is a sole recipient of the Dean's Award for Excellence in Research by an Early Career Researcher (2020), and the Faculty Teaching Excellence Award (2021) at Monash. He is a co-recipient of the best paper award in the European Symposium on Research in Computer Security (ESORICS) 2021. He is currently on the editorial board of IEEE Transactions on Dependable and Secure Computing (TDSC) and IEEE Transactions on Service Computing (TSC). He served as a track co-chair of ICDCS'24, WISE'24, and a program co-chair of Lamps@CCS'24 and SecTL@AsiaCCS'23. "
+url = " https://xyuancs.github.io/"
+buttontext = "Visit researcher profile"
+mail ="xingliang.yuan@unimelb.edu.au"
+
+
 #for postdoctoral
-[[research]]
+[[alumni]]
 title = "Zheguang Zhao"
 image = "images/full/ZheguangZhao.jpeg"
 thumb = "images/thumb/ZheguangZhao.jpeg"
 alt = "Zheguang Zhao"
 url = "https://zheguang.github.io/"
 buttontext = "Visit researcher profile"
-description = "Zheguang Zhao is a research fellow at the University of Melbourne. His research focuses on security issues in data-intensive systems, human computer interaction and machine learning.  He is currently studying vulnerabilities in human-AI collaboration, with applications in broad scenarios such as self-driving vehicles, medical diagnosis, fraud detection and cyberanalysis.  His focus is on building attacks aiming at AI decision-making, computing and human resources, human-machine trust, and on designing and analyzing security protocols against such threats. Zheguang was a postdoctoral researcher at Technical University at Darmstadt from 2021-2022.  He obtained PhD in computer science from Brown University in 2021."
+description = "Zheguang Zhao was a research fellow at the University of Melbourne. His research focuses on security issues in data-intensive systems, human computer interaction and machine learning.  He is currently studying vulnerabilities in human-AI collaboration, with applications in broad scenarios such as self-driving vehicles, medical diagnosis, fraud detection and cyberanalysis.  His focus is on building attacks aiming at AI decision-making, computing and human resources, human-machine trust, and on designing and analyzing security protocols against such threats. Zheguang was a postdoctoral researcher at Technical University at Darmstadt from 2021-2022.  He obtained PhD in computer science from Brown University in 2021."
 
 #[[research]]
 #title = ""
@@ -85,7 +97,7 @@ title = "Joseph Bonneau"
 image = "images/full/joseph.jpg"
 thumb = "images/thumb/joseph.png"
 alt = "Joseph Bonneau"
-description = '''Joseph is an Associate Professor whose work focuses on applied crypto, cryptocurrencies, and econonomic and human factors in security. He is a co-authored of the textbook "Bitcoin and Cryptocurrency Technologies: A Comprehensive Introduction." Joseph’s research has spanned a variety of topics in cryptography and security including HTTPS and web security, verifiable lotteries, passwords and authentication, and end-to-end encrypted communication tools.  His research has been recognized with the NSA Award for Best Cybersecurity Paper and the Caspar Bowden Privacy Enhancing Technology Award. Prior to his appointment at the University of Melbourne, Joseph held a faculty position at NYU. He has worked for the Electronic Frontier Foundation and Google and completed post-doctoral fellowships at Stanford and Princeton University. Joseph holds a Ph.D. from the University of Cambridge and B.S. and M.S. degrees from Stanford.'''
+description = '''Joseph was an Associate Professor whose work focuses on applied crypto, cryptocurrencies, and econonomic and human factors in security. He is a co-authored of the textbook "Bitcoin and Cryptocurrency Technologies: A Comprehensive Introduction." Joseph’s research has spanned a variety of topics in cryptography and security including HTTPS and web security, verifiable lotteries, passwords and authentication, and end-to-end encrypted communication tools.  His research has been recognized with the NSA Award for Best Cybersecurity Paper and the Caspar Bowden Privacy Enhancing Technology Award. Prior to his appointment at the University of Melbourne, Joseph held a faculty position at NYU. He has worked for the Electronic Frontier Foundation and Google and completed post-doctoral fellowships at Stanford and Princeton University. Joseph holds a Ph.D. from the University of Cambridge and B.S. and M.S. degrees from Stanford.'''
 url = "https://jbonneau.com/"
 buttontext = "Visit researcher profile"
 mail="jbonneau@gmail.com"
@@ -104,7 +116,7 @@ title = "Robert Sison"
 image = "images/full/robert.jpeg"
 thumb = "images/thumb/robert.jpeg"
 alt = "Robert Sison"
-description = "Rob is a postdoctoral researcher who is broadly interested in discovering how best to design and construct software systems with formally proved functional-correctness and security properties at scale. Their research with the University of Melbourne concerned the formal verification of operating systems to enforce the absence of microarchitectural timing channels."
+description = "Rob was a postdoctoral researcher who is broadly interested in discovering how best to design and construct software systems with formally proved functional-correctness and security properties at scale. Their research with the University of Melbourne concerned the formal verification of operating systems to enforce the absence of microarchitectural timing channels."
 url = "https://www.robs-cse.com"
 buttontext = "Visit researcher profile"
 
