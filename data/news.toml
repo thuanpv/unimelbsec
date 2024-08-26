@@ -3,10 +3,22 @@
 # up-to-date news should be placed at the very front of this file
 [[news]]
 type = "News"
+description = "Congratulations to Jiankai, Olya, Toby, Ben, and Chitchanok on their new ACM CCS 24 paper: Elephants Do Not Forget: Differential Privacy with State Continuity for Privacy Budget."
+time ="24 Oct, 2024"
+url="https://arxiv.org/abs/2401.17628"
+people = "olya"
+[[news]]
+type = "News"
 description = "Congratulations to Thuan, Shaanan, and Toby on their FEIT Excellence Award in Mid-Career Research."
 time ="24 June, 2024"
 url="https://eng.unimelb.edu.au/about/feit-excellence-awards/honour-roll/2024-honour-roll"
 people = "Thuan"
+[[news]]
+type = "News"
+description = "Congratulations to Pengbo, Olya, and Toby on their new research output: Combining Classical and Probabilistic Independence Reasoning to Verify the Security of Oblivious Algorithms. Will Appear in Formal Methods (FM) 2024."
+time ="24 June, 2024"
+url="https://eng.unimelb.edu.au/about/feit-excellence-awards/honour-roll/2024-honour-roll"
+people = "Pengbo"
 [[news]]
 type = "News"
 description = "Congratulations to Lianglu, Shaanan, Toby, and Thuan on their work, EDEFuzz, which receives a Distinguished Paper Award in ICSE 2024."
