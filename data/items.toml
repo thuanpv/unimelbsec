@@ -72,8 +72,7 @@ title = "Aaron Bembenek"
 image = "images/full/aaron.jpg"
 thumb = "images/thumb/aaron.jpg"
 alt = "Aaron Bembenek"
-description = "Aaron Bembenek is a Research Fellow who designs and builds reasoning systems for (automatically) proving the security and correctness of software. He completed his PhD at Harvard University where he worked on combining logic programming and constraint solving with applications to program analysis and program synthesis.
-"
+description = "Aaron Bembenek is a Research Fellow who designs and builds reasoning systems for (automatically) proving the security and correctness of software. He completed his PhD at Harvard University where he worked on combining logic programming and constraint solving with applications to program analysis and program synthesis."
 url = "https://aaronbembenek.github.io/"
 buttontext = "Visit researcher profile"
 
