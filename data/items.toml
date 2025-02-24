@@ -144,3 +144,12 @@ buttontext = "Visit researcher profile"
 
 
 
+#for phds
+[[student]]
+title = "Jingyi Chen"
+image = "images/full/Jingyi.jpg"
+thumb = "images/thumb/Jingyi.jpg"
+alt = "Jingyi Chen"
+description = ""
+url = ""
+buttontext = "Visit researcher profile"
