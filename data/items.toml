@@ -53,8 +53,6 @@ mail ="benjamin.rubinstein@unimelb.edu.au"
 
 
 
-
-
 [[faculty]]
 title = "Xingliang Yuan"
 image = "images/full/xyuan.jpg"
@@ -143,7 +141,6 @@ url = "https://www.robs-cse.com"
 buttontext = "Visit researcher profile"
 
 
-
 #for phds
 [[student]]
 title = "Jingyi Chen"
@@ -153,3 +150,86 @@ alt = "Jingyi Chen"
 description = ""
 url = ""
 buttontext = "Visit researcher profile"
+
+[[student]]
+title = "Wentao Gao"
+image = "images/full/Wentao_color.jpg"
+thumb = "images/thumb/Wentao_BW.jpeg"
+alt = "Wentao Gao"
+description = "Wentao is a PhD student interested in human-in-the-loop fuzzing."
+url = "https://www.linkedin.com/in/wentao-gao-ab9535244/"
+buttontext = "Visit researcher profile"
+
+[[student]]
+title = "Jiankai Jin"
+image = "images/full/jiankai.jpg"
+thumb = "images/thumb/jiankai.jpg"
+alt = "Jiankai Jin"
+description = "Jiankai is a PhD student. He is interested in machine learning privacy and robustness."
+url = "https://www.linkedin.com/in/jin-jiankai-3a5750119/"
+buttontext = "Visit researcher profile"
+
+[[student]]
+title = "Viet Hoang Luu"
+image = "images/full/viet.jpeg"
+thumb = "images/thumb/viet.jpeg"
+alt = "viet"
+description = ""
+url = ""
+buttontext = "Visit researcher profile"
+
+[[student]]
+title = "Lianglu Pan"
+image = "images/full/lianglu.jpg"
+thumb = "images/thumb/lianglu.jpg"
+alt = "Lianglu Pan"
+description = "Lianglu is a PhD student. He is interested in security testing and fuzzing in web-based services and applications."
+url = "https://pa55er6y.com"
+buttontext = "Visit researcher profile"
+
+[[student]]
+title = "Tian Qiu"
+image = "images/full/Pengbo.jpg"
+thumb = "images/thumb/PengboBW.jpg"
+alt = "Tian Qiu"
+description = "Tian Qiu is a PhD student. She is interested in Automated Program Synthesis for Security Testing, especially Fuzz Driver Generation. 
+"
+url = "www.linkedin.com/in/tian-qiu-5a5709194"
+buttontext = "Visit researcher profile"
+
+[[student]]
+title = "Faxing Wang"
+image = "images/full/faxing.jpg"
+thumb = "images/thumb/faxing.jpg"
+alt = "Faxing Wang"
+description = "Faxing is a PhD student. He is interested in magic tricks that can be done by cryptography"
+url = "https://www.faxingwang.net/"
+buttontext = "Visit researcher profile"
+
+[[student]]
+title = "Pengbo Yan"
+image = "images/full/Pengbo.jpg"
+thumb = "images/thumb/PengboBW.jpg"
+alt = "Pengbo Yan"
+description = "Pengbo is a PhD student interested in formal verification."
+url = "https://au.linkedin.com/in/pengbo-yan-7b48471b2"
+buttontext = "Visit researcher profile"
+
+[[student]]
+title = "Wenqi Yan"
+image = "images/full/Wenqi.jpg"
+thumb = "images/thumb/Wenqi.jpg"
+alt = "Wenqi Yan"
+description = ""
+url = ""
+buttontext = "Visit researcher profile"
+
+[[student]]
+title = "Zhiyuan Zhang"
+image = "images/full/zzy.jpg"
+thumb = "images/thumb/zzy.jpeg"
+alt = "Zhiyuan Zhang"
+description = "Zhiyuan a PhD student. He is interested in side-channel analysis and cryptography."
+url = "https://neo-outis.github.io/"
+buttontext = "Visit researcher profile"
+
