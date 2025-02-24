@@ -67,8 +67,8 @@ mail ="xingliang.yuan@unimelb.edu.au"
 #for postdoctoral
 [[research]]
 title = "Aaron Bembenek"
-image = "images/full/aaron.jpg"
-thumb = "images/thumb/aaron.jpg"
+image = "images/full/aaron_headshot.jpeg"
+thumb = "images/thumb/aaron_headshot.jpeg"
 alt = "Aaron Bembenek"
 description = "Aaron Bembenek is a Research Fellow who designs and builds reasoning systems for (automatically) proving the security and correctness of software. He completed his PhD at Harvard University where he worked on combining logic programming and constraint solving with applications to program analysis and program synthesis."
 url = "https://aaronbembenek.github.io/"
@@ -82,7 +82,15 @@ alt = "Andrew Cullen"
 description = ""
 url = ""
 buttontext = "Visit researcher profile"
-
+[[research]]
+title = "Neil Marchantn"
+image = "images/full/Neil.webp"
+thumb = "images/thumb/Neil.webp"
+alt = "Neil Marchant"
+description = ""
+url = ""
+buttontext = "Visit researcher profile"
+ 
 [[research]]
 title = "Amir Pasdar"
 image = "images/full/Amir.jpg"
