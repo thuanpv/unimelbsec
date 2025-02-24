@@ -200,8 +200,7 @@ title = "Tian Qiu"
 image = "images/full/Pengbo.jpg"
 thumb = "images/thumb/PengboBW.jpg"
 alt = "Tian Qiu"
-description = "Tian Qiu is a PhD student. She is interested in Automated Program Synthesis for Security Testing, especially Fuzz Driver Generation. 
-"
+description = "Tian Qiu is a PhD student. She is interested in Automated Program Synthesis for Security Testing, especially Fuzz Driver Generation."
 url = "www.linkedin.com/in/tian-qiu-5a5709194"
 buttontext = "Visit researcher profile"
 
